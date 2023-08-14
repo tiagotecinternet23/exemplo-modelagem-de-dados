@@ -13,3 +13,9 @@
     - Gênero do Filme
 
 **Obs.:** o filme deve ter um gênero relacionado à tabela de genêros.
+
+---
+
+## Exercício resolvido:
+
+![Modelagem Filmes e Gêneros](modelo-logico-catalogo.png)
