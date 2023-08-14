@@ -2,7 +2,7 @@
 
 ## Crie no MySQL Workbench o modelo lógico para 2 entidades:
 
-2) Gêneros
+1) Gêneros
     - Identificador
     - Nome do gênero
 
