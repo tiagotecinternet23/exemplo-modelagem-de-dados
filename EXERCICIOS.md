@@ -2,7 +2,7 @@
 
 **16/08/2023**
 
-No phpMyAdmin utilize comandos SQL para fazer a modelagem física do exercício anterior.
+## No phpMyAdmin utilize comandos SQL para fazer a modelagem física do exercício anterior.
 
 Você deve:
 
