@@ -14,3 +14,4 @@ CREATE TABLE fabricantes(
     nome VARCHAR(45) NOT NULL
 );
 ```
+
