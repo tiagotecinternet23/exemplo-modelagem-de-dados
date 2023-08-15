@@ -10,6 +10,8 @@ Você deve:
 - Criar duas tabelas (Gêneros e Filmes)
 - Fazer o relacionamento entre as tabelas
 
+---
+
 **15/08/2023**
 
 ## Crie no MySQL Workbench o modelo lógico para 2 entidades:
