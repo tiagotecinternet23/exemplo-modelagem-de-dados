@@ -38,4 +38,4 @@ Você deve:
 
 ## Exercício resolvido:
 
-![Modelagem Filmes e Gêneros](modelo-logico-catalogo.png)
+![Modelagem Filmes e Gêneros](arquivos-modelo-logico/modelo-logico-catalogo.png)
