@@ -1,5 +1,11 @@
 # Exercícios de Modelagem
 
+**17/08/2023**
+
+## Refaça o exercício anterior de modelagem física (banco de dados de catalogo de Filmes e Gêneros) usando somente ferramentas da interface gráfica do phpMyAdmin.
+
+---
+
 **16/08/2023**
 
 ## No phpMyAdmin utilize comandos SQL para fazer a modelagem física do exercício anterior.
