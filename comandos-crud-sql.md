@@ -175,3 +175,18 @@ UPDATE produtos SET quantidade = 20
 -- WHERE id = 2 OR id = 4 OR id = 5;
 WHERE fabricante_id IN(3, 5);
 ```
+
+---
+
+## DELETE
+
+```sql
+-- ☠️ NÃO SE ESQUEÇA DO WHERE!! PRERIGO! ☠️
+DELETE FROM fabricantes WHERE id = 1;
+DELETE FROM fabricantes WHERE id = 4;
+
+-- A query abaixo NÃO FUNCIONA devido à restrição
+-- de chave estrangeira/relacionamento, ou seja, 
+-- existem produtos associados ao fabricante 3 (apple)
+-- DELETE FROM fabricantes WHERE id = 3;
+```
