@@ -190,3 +190,21 @@ DELETE FROM fabricantes WHERE id = 4;
 -- existem produtos associados ao fabricante 3 (apple)
 -- DELETE FROM fabricantes WHERE id = 3;
 ```
+
+--- 
+
+## SELECT: outras formas de uso
+
+### Classificando
+
+```sql
+SELECT nome, preco FROM produtos ORDER BY nome;
+SELECT nome, preco FROM produtos ORDER BY preco;
+SELECT nome, preco FROM produtos ORDER BY preco DESC;
+
+-- DESC: classificação em ordem decrescente
+-- ASC (padrão): classificação em ordem crescente
+
+SELECT nome, preco FROM produtos 
+WHERE quantidade = 20 ORDER BY nome;
+```
