@@ -4,7 +4,7 @@ Atividades de estudo de modelagem de banco de dados
 
 ## Exemplo de Modelagem Lógica
 
-![Modelo lógico do sistema de Vendas](modelo-logico-vendas.png)
+![Modelo lógico do sistema de Vendas](arquivos-modelo-logico/modelo-logico-vendas.png)
 
 
 ## Sobre tipos de relacionamento
